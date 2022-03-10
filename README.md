@@ -23,7 +23,7 @@
 
 
 <!-- Thank You -->
-<h1 align="center">THANK YOU FOR VISITING !!!</h1>
+<h1 align="center">😍 THANK YOU FOR VISITING 💖</h1>
 <!-- End of Thank You -->
 
 <!-- Social Media -->
