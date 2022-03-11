@@ -5,7 +5,9 @@
 <!-- Views -->
 <a href="https://github.com/narengavli-svnit-02/"><img align="left" src="https://komarev.com/ghpvc/?username=narengavli-svnit-02&label=Profile%20views&color=6930C3&style=for-the-badge" alt="narengavli-svnit-02" />
 <!-- End of Views -->
+
 <br>
+
 <!-- Languages -->
 <h3 align="left">Programming Languages :</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=Python&logoColor=white"/> </a>
@@ -13,6 +15,7 @@
 <a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/" target="_blank"> <img src="https://img.shields.io/badge/C%20LANGUAGE-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="cplusplus"/> </a>   
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </a>
 
+<!-- Web Development Technology -->
 <h3 align="left">Web Development Technology's :</h3>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </a>
@@ -21,6 +24,12 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/PHP-critical?style=for-the-badge&logo=PHP&logoColor=white"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white"/> </a>
 
+<!-- Tools -->
+<h3 align="left">Tools :</h3>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/> </a>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Vim%20Editor-green?style=for-the-badge&logo=Vim&logoColor=white"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> </a>
+<a href="https://github.com/narengavli-svnit-02" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 <!-- Thank You -->
 <h1 align="center">😍 THANK YOU FOR VISITING 💖</h1>
