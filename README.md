@@ -11,7 +11,7 @@
 <!-- Languages -->
 <h3 align="left">Programming Languages :</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=Python&logoColor=white"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/SHELL%20SCRIPTING-success?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/> </a>
+<a href="https://www.tutorialspoint.com/unix/shell_scripting.htm" target="_blank"> <img src="https://img.shields.io/badge/SHELL%20SCRIPTING-success?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/> </a>
 <a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/" target="_blank"> <img src="https://img.shields.io/badge/C%20LANGUAGE-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="cplusplus"/> </a>   
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </a>
 
@@ -19,10 +19,10 @@
 <h3 align="left">Web Development Technology's :</h3>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/BOOTSTRAP-blueviolet?style=for-the-badge&logo=Bootstrap&logoColor=white"/> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/BOOTSTRAP-blueviolet?style=for-the-badge&logo=Bootstrap&logoColor=white"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JAVASCRIPT-ff69b4?style=for-the-badge&logo=JavaScript&logoColor=white"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/PHP-critical?style=for-the-badge&logo=PHP&logoColor=white"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white"/> </a>
+<a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/PHP-critical?style=for-the-badge&logo=PHP&logoColor=white"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white"/> </a>
 
 <!-- Tools -->
 <h3 align="left">Tools :</h3>
