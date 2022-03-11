@@ -26,8 +26,8 @@
 
 <!-- Tools -->
 <h3 align="left">Tools :</h3>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Vim%20Editor-green?style=for-the-badge&logo=Vim&logoColor=white"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/> </a>
+<a href="https://www.vim.org/" target="_blank"> <img src="https://img.shields.io/badge/Vim%20Editor-green?style=for-the-badge&logo=Vim&logoColor=white"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> </a>
 <a href="https://github.com/narengavli-svnit-02" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
