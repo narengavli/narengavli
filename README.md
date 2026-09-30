@@ -3,7 +3,7 @@
 <!-- ===================== TYPING TEXT ===================== -->
 <p align="center">
   <a href="https://narengavli.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=E100FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Naren+%F0%9F%91%8B;Software+Development+Engineer;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Machine+Learning+Builder+%F0%9F%A4%96;Python+%2B+TypeScript+Developer" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=E100FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Narendra+%F0%9F%91%8B;Software+Development+Engineer;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Machine+Learning+Builder+%F0%9F%A4%96;Python+%2B+TypeScript+Developer" alt="Typing SVG"/>
   </a>
 </p>
 
