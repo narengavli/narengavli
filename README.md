@@ -37,20 +37,13 @@ class NarenGavli:
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,docker,git,linux,vscode&theme=dark" alt="Tools & Frameworks"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=narengavli&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E100FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narengavli&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E100FF&text_color=FFFFFF&langs_count=8" alt="Top languages"/>
-</p>
-
----
-
 <!-- ===================== FOOTER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:E100FF,100:7F00FF&height=2" width="100%" alt="divider"/>
+
 <p align="center">
   <i>"The eye sees only what the mind is prepared to comprehend." -  so I train the mind</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:E100FF,100:7F00FF&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&height=30&lines=%E2%9F%A8+code+%C2%B7+see+%C2%B7+learn+%C2%B7+build+%E2%9F%A9;%E2%9C%A6+Python+%E2%9C%A6+TypeScript+%E2%9C%A6+OpenCV+%E2%9C%A6+PyTorch+%E2%9C%A6" alt="footer pattern"/>
 </p>
